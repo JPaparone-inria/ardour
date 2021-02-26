@@ -11,6 +11,7 @@
 # Edouard <edwsaintesprit@hotmail.com>, 2016.
 # Rivaud Julien <frnchfrgg@free.fr>, 2016, 2019.
 # Olivier Humbert <trebmuh@tuxfamily.org>, 2016, 2018, 2019, 2020.
+# Paparone Julien <julien.paparone@yahoo.fr>, 2021.
 #: audio_clock.cc:941 audio_clock.cc:942 session_dialog.cc:605
 #: session_dialog.cc:606
 msgid ""
